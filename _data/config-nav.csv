@@ -4,7 +4,6 @@ Browse,/browse.html,
 Subjects,/subjects.html,
 Locations,/locations.html,
 Map,/map.html,
-Categories,
-Timeline,/timeline.html, Categories
-Data,/data.html, Categories
+Memories,/timeline.html,
+Data,/data.html,
 About,/about.html,
