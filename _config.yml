@@ -40,7 +40,7 @@ metadata: BDAP_metadata_demo_metadata
 # page_gen:
 #   - data: 'demo-metadata'
 #     template: 'item'
-#     name: 'objectid'
+#     name: 'objectid'`
 #     dir: 'items'
 #     extension: 'html' 
 #     filter: 'objectid'  

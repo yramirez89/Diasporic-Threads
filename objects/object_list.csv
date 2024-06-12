@@ -1,6 +1,16 @@
 filename,object_location,image_small,image_thumb
 210a.jpg,/objects/210a.jpg,/objects/small/210a_sm.jpg,/objects/thumbs/210a_th.jpg
 210b.jpg,/objects/210b.jpg,/objects/small/210b_sm.jpg,/objects/thumbs/210b_th.jpg
+bdap_a_00001.wav,/objects/bdap_a_00001.wav,,
+bdap_doc_00001.pdf,/objects/bdap_doc_00001.pdf,/objects/small/bdap_doc_00001_sm.jpg,/objects/thumbs/bdap_doc_00001_th.jpg
+bdap_p_00001.jpg,/objects/bdap_p_00001.jpg,/objects/small/bdap_p_00001_sm.jpg,/objects/thumbs/bdap_p_00001_th.jpg
+bdap_p_00002.JPG,/objects/bdap_p_00002.JPG,/objects/small/bdap_p_00002_sm.jpg,/objects/thumbs/bdap_p_00002_th.jpg
+bdap_p_00003.JPG,/objects/bdap_p_00003.JPG,/objects/small/bdap_p_00003_sm.jpg,/objects/thumbs/bdap_p_00003_th.jpg
+bdap_p_00004.JPG,/objects/bdap_p_00004.JPG,/objects/small/bdap_p_00004_sm.jpg,/objects/thumbs/bdap_p_00004_th.jpg
+bdap_p_00005.JPG,/objects/bdap_p_00005.JPG,/objects/small/bdap_p_00005_sm.jpg,/objects/thumbs/bdap_p_00005_th.jpg
+bdap_p_00006.JPG,/objects/bdap_p_00006.JPG,/objects/small/bdap_p_00006_sm.jpg,/objects/thumbs/bdap_p_00006_th.jpg
+bdap_p_00007.JPG,/objects/bdap_p_00007.JPG,/objects/small/bdap_p_00007_sm.jpg,/objects/thumbs/bdap_p_00007_th.jpg
+bdap_v_00001.mov,/objects/bdap_v_00001.mov,,
 demo_001.jpg,/objects/demo_001.jpg,/objects/small/demo_001_sm.jpg,/objects/thumbs/demo_001_th.jpg
 demo_002.pdf,/objects/demo_002.pdf,/objects/small/demo_002_sm.jpg,/objects/thumbs/demo_002_th.jpg
 demo_003.mp3,/objects/demo_003.mp3,,
