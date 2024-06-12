@@ -1,5 +1,5 @@
 ---
-title: Timeline
+title: Memories
 layout: timeline
 permalink: /timeline.html
 ---
